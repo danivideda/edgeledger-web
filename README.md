@@ -1,2 +1,2 @@
-# edgeledger-website
-A web exercise from my webdev course
+# edgeledger
+A fictional website for my private course
